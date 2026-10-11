@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/*.mat
+data/*.partial.mat
+outputs/
+!outputs/.gitkeep
+configs/data_paths.json
