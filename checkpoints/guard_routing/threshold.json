@@ -1,0 +1,6 @@
+{
+  "threshold": 0.00012714504506827033,
+  "score": "nominal_projection_error_minus_context_projection_error",
+  "residual_route_when": "score > threshold",
+  "selection_als_iterations": 5
+}

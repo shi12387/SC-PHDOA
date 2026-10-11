@@ -1,0 +1,22 @@
+{
+  "protocol": "sc-phdoa-final-als1-no-refiner",
+  "tolerance": 0.00002,
+  "overall": {
+    "nominal_als": {"mean_ospa": 1.7803064773, "mean_scene_correct_k_rmse": 1.7621627464, "e2e_3deg": 0.745},
+    "session_calibrated_als": {"mean_ospa": 1.6106287556, "mean_scene_correct_k_rmse": 1.5921775709, "e2e_3deg": 0.7988888889},
+    "sc_phdoa": {"mean_ospa": 1.5909920184, "mean_scene_correct_k_rmse": 1.5725553212, "e2e_3deg": 0.8005555556}
+  },
+  "em_sbl": {
+    "mean_ospa": 9.3907363939,
+    "mean_scene_correct_k_rmse": 18.8349454160,
+    "e2e_3deg": 0.3016666667,
+    "tolerance": 0.005
+  },
+  "context_sensitivity": {
+    "1": {"mean_ospa": 1.9273698262, "mean_e2e_3deg": 0.7318888889},
+    "2": {"mean_ospa": 1.7934778722, "mean_e2e_3deg": 0.7634444444},
+    "4": {"mean_ospa": 1.6849637109, "mean_e2e_3deg": 0.7799444444},
+    "6": {"mean_ospa": 1.6380301390, "mean_e2e_3deg": 0.7914444444},
+    "8": {"mean_ospa": 1.6106287731, "mean_e2e_3deg": 0.7988888889}
+  }
+}

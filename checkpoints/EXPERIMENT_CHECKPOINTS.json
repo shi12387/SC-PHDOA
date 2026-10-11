@@ -1,0 +1,13 @@
+{
+  "selection_protocol": "600 training states, 200 validation states; lowest validation OSPA for controlled SetNets and lowest validation calibration loss for calibration-input ablations",
+  "excluded_protocol": "No 800-state refit checkpoint is used by the released evaluation",
+  "files": {
+    "controlled_setnets/support8/covariance.pt": "6DDC3397C4BA71FD95F68F96AAD0983012A9DA5CBF7B84BCD02761483A16DC9E",
+    "controlled_setnets/support8/iq.pt": "FD3C88B554AA3A4AC45875AA3B0981658CD56667E5AAE4F43733122D578E1B69",
+    "controlled_setnets/support12/covariance.pt": "9C1CB7639A5E40935F4354AF2E92C9D9F0163D8AE59DCB159F509739C979E099",
+    "controlled_setnets/support12/iq.pt": "98EE2CE0632FA28A88F8B9EF2CC5CEEF9EBA03721C5818E37B54F34C69DCFB26",
+    "calibration_input_ablation/analytic_only/network.pt": "030885C2FCE7A2A63EA85DC0DE0833FCA754DFEE7F668383685D4CEB4A629963",
+    "calibration_input_ablation/iq_only/network.pt": "6A20514B0CA57CF3D01D89505705B2F5376F5211593664029DE04ECEDCE4FDE4",
+    "calibration_input_ablation/full/network.pt": "2910D30D86F5E65D0D7F4138369F7EEE6161D03B53BD6C9EC84EF89E55236302"
+  }
+}
